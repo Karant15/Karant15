@@ -1,7 +1,7 @@
 # Hi, I'm Karan Trivedi 
 
  MS Data Analytics | Webster University (Dec 2024)
-📍 Edison, NJ | 🟢 Open to Work | OPT Active
+📍 Edison, NJ | Open to Opportunities | OPT Active
 
 I build predictive models, dashboards, and data-driven solutions 
 with a focus on healthcare, financial risk, and consumer analytics.
