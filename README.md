@@ -25,5 +25,5 @@ with a focus on healthcare, financial risk, and consumer analytics.
 - Lean Six Sigma Green Belt — Benchmark Six Sigma
 
 ## 📫 Let's Connect
-[LinkedIn](https://github.com/Karant15/Healthcare-Workforce-Analytics/blob/main/linkedin.com/in/karan-r-trivedi-b9a96a56)
+🔗 [LinkedIn](https://github.com/Karant15/Healthcare-Workforce-Analytics/blob/main/linkedin.com/in/karan-r-trivedi-b9a96a56)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krntrivedi@gmail.com)
