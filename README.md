@@ -9,9 +9,9 @@ Piscataway, NJ → Open to US opportunities (Remote & Relocate) | STEM OPT Activ
 
 I build data-driven solutions that solve real business problems — not just notebooks that sit on a laptop.
 
-7+ years of combined experience across **healthcare**, **recruitment**, and **business analytics** — including managing data relationships with 30+ NHS hospitals in the UK. Now applying that domain knowledge to data science.
+7+ years of combined experience across **healthcare**, **recruitment**, and **business analytics** - including managing data relationships with 30+ NHS hospitals in the UK. Now applying that domain knowledge to data science.
 
-**Lean Six Sigma Black Belt** — I don't just find problems in data. I frame them as business solutions.
+**Lean Six Sigma Black Belt** - I don't just find problems in data. I frame them as business solutions.
 
 ---
 
