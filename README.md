@@ -1,13 +1,13 @@
 # Hi, I'm Karan Trivedi 
 
 **MS Data Analytics | Webster University (Dec 2024)**
-Piscataway, NJ → Open to US opportunities (Remote & Relocate) | STEM OPT Active
+📍 Piscataway, NJ → Open to US opportunities (Remote & Relocate) | STEM OPT Active
 
 ---
 
 ## What I Do
 
-I build data-driven solutions that solve real business problems — not just notebooks that sit on a laptop.
+I build data-driven solutions that solve real business problems - not just notebooks that sit on a laptop.
 
 7+ years of combined experience across **healthcare**, **recruitment**, and **business analytics** - including managing data relationships with 30+ NHS hospitals in the UK. Now applying that domain knowledge to data science.
 
@@ -15,65 +15,43 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-## Currently Building — 6 Projects | April 2026
+## Projects | April 2026
 
 | # | Project | Type | Status | Live |
 |---|---------|------|--------|------|
-| 1 | Healthcare Workforce Analytics Dashboard | Python · Streamlit | ✅ Live | [🔗 Open Dashboard](https://karan-healthcare-analytics.streamlit.app) |
-| 2 | Supply Chain KPI Dashboard + DMAIC | Python · Power BI | 🔨 Building | Coming soon |
-| 3 | SQL Healthcare Claims Analysis | SQL · SQLite | 🔨 Building | Coming soon |
-| 4 | SQL Supply Chain Operations Analysis | SQL · Python | 📋 Planned | Coming soon |
-| 5 | LLM Business Intelligence Tool | LangChain · OpenAI | 📋 Planned | Coming soon |
-| 6 | Cricket Analytics Dashboard | Python · Plotly | 📋 Planned | Coming soon |
+| 1 | Healthcare Workforce Analytics Dashboard | Python · Streamlit | ✅ Live | [🔗 Open](https://karan-healthcare-analytics.streamlit.app) |
+| 2 | Supply Chain KPI Dashboard + DMAIC + SQL | Python · SQL · Streamlit | ✅ Live | [🔗 Open](https://karan-supply-chain.streamlit.app) |
+| 3 | SQL Healthcare Claims Analysis | SQL · SQLite | 📋 Planned | Coming soon |
+| 4 | LLM Business Intelligence Tool | LangChain · OpenAI | 📋 Planned | Coming soon |
+| 5 | Cricket Analytics Dashboard | Python · Plotly | 📋 Planned | Coming soon |
 
 ---
 
 ## Featured Projects
 
-###  Healthcare Workforce Analytics Dashboard ← LIVE NOW
+###  Healthcare Workforce Analytics Dashboard — LIVE
 > Analyzed 9.6M real US Medicare records to identify physician staffing gaps across all 50 states
 
 - Processed 1.1M unique providers across 104 medical specialties
-- Built interactive 5-tab Streamlit dashboard with US choropleth maps
+- Built an interactive 5-tab Streamlit dashboard with US choropleth maps
 - Applied Lean Six Sigma DMAIC framework to structure recruitment gap analysis
-- Identified Wyoming (97.7%), Vermont and Alaska as most critically underserved states
+- Identified Wyoming (97.7%), Vermont, and Alaska as the most critically underserved states
 - Full analysis run locally on 9.6M records — dashboard shows 50k representative sample
 - **Live:** https://karan-healthcare-analytics.streamlit.app
 - **Stack:** Python · Pandas · Plotly · Streamlit · CMS Medicare Data
 
 ---
 
-###  Supply Chain KPI Dashboard + DMAIC ← COMING SOON
-> Analyzing 180,000+ real supply chain orders to identify delivery failures and inventory gaps
+###  Supply Chain KPI Dashboard + DMAIC + SQL — LIVE
+> Analyzed 180,519 real orders — found that 57% of deliveries are late across 23 global regions
 
-- Full DMAIC Six Sigma framework applied to supply chain data analysis
-- KPIs: on-time delivery rate, fill rate, supplier performance, lead time
-- ABC/FSN inventory segmentation and demand forecasting
-- Interactive Power BI + Streamlit dashboard
-- **Live:** https://karan-supply-chain.streamlit.app/
-- **Stack:** Python · SQL · Power BI · DMAIC · DataCo Dataset
-
----
-
-###  SQL Healthcare Claims Analysis ← COMING SOON
-> 15 advanced SQL queries answering real healthcare business questions using CMS Medicare data
-
-- Which states have the highest average Medicare payment per service?
-- Which specialties have the most providers but fewest patients — recruitment gaps?
-- Top 10 highest billing providers by state
-- Year over year payment trends by specialty
-- **Stack:** SQL · SQLite · Python · CMS Medicare Data
-
----
-
-###  SQL Supply Chain Operations Analysis ← COMING SOON
-> Complex SQL analysis on 180,000+ supply chain orders for operational insights
-
-- Late delivery rate by region, carrier, and product category
-- Customer segment revenue and profitability analysis
-- Monthly order volume and revenue trend queries
-- Supplier performance ranking and scoring
-- **Stack:** SQL · SQLite · Python · DataCo Dataset
+- Only 42.7% on-time delivery rate — Central Africa worst at 60.7% late rate
+- 15 SQL queries via SQLite — late rate by region, revenue by category, customer segments
+- ABC inventory segmentation, identifying Class A products driving 80% of revenue
+- Full DMAIC Six Sigma structured analysis — Define through Control
+- Full analysis on 180,519 orders locally — dashboard runs on 50k representative sample
+- **Live:** https://karan-supply-chain.streamlit.app
+- **Stack:** Python · SQL · SQLite · Plotly · Streamlit · DMAIC
 
 ---
 
@@ -127,9 +105,9 @@ Domain:           Healthcare Analytics · Supply Chain · Recruitment Analytics
 
 ## Certifications
 
--  **Lean Six Sigma Black Belt** — Benchmark Six Sigma (2021)
--  **Lean Six Sigma Green Belt** — Benchmark Six Sigma (2021)
--  **MS Data Analytics** — Webster University, St Louis (Dec 2024) | GPA 3.31
+- 🏆 **Lean Six Sigma Black Belt** — Benchmark Six Sigma (2021)
+- 🏆 **Lean Six Sigma Green Belt** — Benchmark Six Sigma (2021)
+- 📊 **MS Data Analytics** — Webster University, St Louis (Dec 2024) | GPA 3.31
 
 ---
 
@@ -155,11 +133,12 @@ Open to **Healthcare Analyst · Supply Chain Analyst · Data Analyst · Business
 
 ## Let's Connect
 
-📧 krntrivedi@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/karan-r-trivedi-b9a96a56)
-🌐 [Live Dashboard — Healthcare Workforce Analytics](https://karan-healthcare-analytics.streamlit.app)
-🐙 [GitHub](https://github.com/Karant15)
+ krntrivedi@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/karan-r-trivedi-b9a96a56)
+ [Healthcare Dashboard](https://karan-healthcare-analytics.streamlit.app)
+ [Supply Chain Dashboard](https://karan-supply-chain.streamlit.app)
+ [GitHub](https://github.com/Karant15)
 
 ---
 
-*6 projects in progress. New deployments every 2 weeks. Check back soon.*
+*5 projects in progress. New deployments every 2 weeks. Check back soon.*
