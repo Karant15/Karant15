@@ -30,7 +30,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ## Featured Projects
 
-### 🏥 Healthcare Workforce Analytics Dashboard ← LIVE NOW
+###  Healthcare Workforce Analytics Dashboard ← LIVE NOW
 > Analyzed 9.6M real US Medicare records to identify physician staffing gaps across all 50 states
 
 - Processed 1.1M unique providers across 104 medical specialties
@@ -43,7 +43,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 🚚 Supply Chain KPI Dashboard + DMAIC ← COMING SOON
+###  Supply Chain KPI Dashboard + DMAIC ← COMING SOON
 > Analyzing 180,000+ real supply chain orders to identify delivery failures and inventory gaps
 
 - Full DMAIC Six Sigma framework applied to supply chain data analysis
@@ -54,7 +54,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 🗄️ SQL Healthcare Claims Analysis ← COMING SOON
+###  SQL Healthcare Claims Analysis ← COMING SOON
 > 15 advanced SQL queries answering real healthcare business questions using CMS Medicare data
 
 - Which states have the highest average Medicare payment per service?
@@ -65,7 +65,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 🗄️ SQL Supply Chain Operations Analysis ← COMING SOON
+###  SQL Supply Chain Operations Analysis ← COMING SOON
 > Complex SQL analysis on 180,000+ supply chain orders for operational insights
 
 - Late delivery rate by region, carrier, and product category
@@ -76,7 +76,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 👥 Human Capital Analysis
+###  Human Capital Analysis
 > Predicting employee turnover to reduce hiring costs
 
 - Analyzed 15,000+ employee records using Logistic Regression and Decision Trees
@@ -87,7 +87,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 🏦 Bank Loan Risk Model
+###  Bank Loan Risk Model
 > Loan default prediction reducing misclassification cost by $3M
 
 - Built Logistic Regression and Decision Tree models on 5,960 loan applicants
@@ -98,7 +98,7 @@ I build data-driven solutions that solve real business problems — not just not
 
 ---
 
-### 🛒 Consumer Segmentation Analysis
+###  Consumer Segmentation Analysis
 > Customer segmentation and brand loyalty prediction
 
 - Segmented 600 consumer profiles using K-Means clustering
@@ -148,7 +148,7 @@ CRLA Level 2 Certified · Improved student outcomes 94%
 ## Target Roles
 
 Open to **Healthcare Analyst · Supply Chain Analyst · Data Analyst · Business Analyst** roles
-📍 St Louis, MO · Remote · Open to relocate within US
+📍 Piscataway, NJ · Remote · Open to relocate within US
 
 ---
 
