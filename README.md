@@ -50,6 +50,7 @@ I build data-driven solutions that solve real business problems — not just not
 - KPIs: on-time delivery rate, fill rate, supplier performance, lead time
 - ABC/FSN inventory segmentation and demand forecasting
 - Interactive Power BI + Streamlit dashboard
+- **Live:** https://karan-supply-chain.streamlit.app/
 - **Stack:** Python · SQL · Power BI · DMAIC · DataCo Dataset
 
 ---
