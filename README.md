@@ -1,4 +1,4 @@
-# Hi, I'm Karan Trivedi 
+# Hi, I'm Karan Trivedi
 
 **MS Data Analytics | Webster University (Dec 2024)**
 📍 Piscataway, NJ → Open to US opportunities (Remote & Relocate) | STEM OPT Active
@@ -7,23 +7,29 @@
 
 ## What I Do
 
-I build data-driven solutions that solve real business problems - not just notebooks that sit on a laptop.
+I build data-driven solutions that solve real business problems — not just notebooks that sit on a laptop.
 
-7+ years of combined experience across **healthcare**, **recruitment**, and **business analytics** - including managing data relationships with 30+ NHS hospitals in the UK. Now applying that domain knowledge to data science.
+7+ years of combined experience across **healthcare**, **recruitment**, and **business analytics** — including managing data relationships with 30+ NHS hospitals in the UK. Now applying that domain knowledge to data science.
 
-**Lean Six Sigma Black Belt** - I don't just find problems in data. I frame them as business solutions.
+**Lean Six Sigma Black Belt** — I don't just find problems in data. I frame them as business solutions.
 
 ---
 
-## Projects | April 2026
+## Release Schedule — 10 Projects | May–July 2026
+
+*One new project is published every other week, Building in public.*
 
 | # | Project | Type | Status | Live |
 |---|---------|------|--------|------|
 | 1 | Healthcare Workforce Analytics Dashboard | Python · Streamlit | ✅ Live | [🔗 Open](https://karan-healthcare-analytics.streamlit.app) |
 | 2 | Supply Chain KPI Dashboard + DMAIC + SQL | Python · SQL · Streamlit | ✅ Live | [🔗 Open](https://karan-supply-chain.streamlit.app) |
-| 3 | SQL Healthcare Claims Analysis | SQL · SQLite | 📋 Planned | Coming soon |
-| 4 | LLM Business Intelligence Tool | LangChain · OpenAI | 📋 Planned | Coming soon |
-| 5 | Cricket Analytics Dashboard | Python · Plotly | 📋 Planned | Coming soon |
+| 3 | Supply Chain Power BI Dashboard | Power BI · DAX | 🔨 Building | Releasing in May |
+| 4 | SQL Business Dashboard | SQL · Power BI · Tableau | 🔨 Udemy project | Releasing in May |
+| 5 | SQL Healthcare Claims Analysis | SQL · SQLite · Python | 📋 Planned | Releasing in May |
+| 6 | HR Analytics Dashboard | SQL · Power BI · Excel | 📋 Udemy project | Expecting release in June |
+| 7 | Demand Forecasting + Inventory Optimizer | Python · Prophet · Streamlit | 📋 Planned | Expecting release June |
+| 8 | LLM Business Intelligence Tool | LangChain · OpenAI · Streamlit | 📋 Planned | Expecting release June |
+| 9 | Cricket Analytics Dashboard | Python · Plotly · Streamlit | 📋 Planned | Expecting release June |
 
 ---
 
@@ -33,9 +39,9 @@ I build data-driven solutions that solve real business problems - not just noteb
 > Analyzed 9.6M real US Medicare records to identify physician staffing gaps across all 50 states
 
 - Processed 1.1M unique providers across 104 medical specialties
-- Built an interactive 5-tab Streamlit dashboard with US choropleth maps
+- Built interactive 5-tab Streamlit dashboard with US choropleth maps
 - Applied Lean Six Sigma DMAIC framework to structure recruitment gap analysis
-- Identified Wyoming (97.7%), Vermont, and Alaska as the most critically underserved states
+- Identified Wyoming (97.7%), Vermont and Alaska as most critically underserved states
 - Full analysis run locally on 9.6M records — dashboard shows 50k representative sample
 - **Live:** https://karan-healthcare-analytics.streamlit.app
 - **Stack:** Python · Pandas · Plotly · Streamlit · CMS Medicare Data
@@ -47,11 +53,22 @@ I build data-driven solutions that solve real business problems - not just noteb
 
 - Only 42.7% on-time delivery rate — Central Africa worst at 60.7% late rate
 - 15 SQL queries via SQLite — late rate by region, revenue by category, customer segments
-- ABC inventory segmentation, identifying Class A products driving 80% of revenue
+- ABC inventory segmentation identifying Class A products driving 80% of revenue
 - Full DMAIC Six Sigma structured analysis — Define through Control
 - Full analysis on 180,519 orders locally — dashboard runs on 50k representative sample
 - **Live:** https://karan-supply-chain.streamlit.app
 - **Stack:** Python · SQL · SQLite · Plotly · Streamlit · DMAIC
+
+---
+
+###  Supply Chain Power BI Dashboard — BUILDING NOW
+> Same 180,519 order dataset rebuilt in Power BI — demonstrating Microsoft stack proficiency
+
+- 4-page interactive report: Executive Summary, Delivery Performance, Revenue & Profit, ABC Inventory + DMAIC
+- DAX measures for KPI calculations — On-Time Rate, Late Orders, Total Revenue, Avg Margin
+- Designed for business stakeholders — not just technical audiences
+- **Status:** In progress — releasing Monday May 12
+- **Stack:** Power BI · DAX · DataCo Supply Chain Dataset
 
 ---
 
@@ -88,14 +105,25 @@ I build data-driven solutions that solve real business problems - not just noteb
 
 ---
 
+## Currently Learning
+
+| Course | Platform | Section | Target Complete |
+|--------|----------|---------|-----------------|
+| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section | 
+| Google Data Analytics Professional Certificate | Coursera | 
+| Microsoft PL-300 Power BI Associate | Microsoft Learn | 
+| Unilever Supply Chain Analytics | Coursera |
+
+---
+
 ## Tech Stack
 
 ```
 Languages:        Python · R · SQL
-Visualization:    Plotly · Streamlit · Tableau · Power BI · Seaborn
+Visualization:    Plotly · Streamlit · Power BI · Tableau · Seaborn
 ML/Analytics:     Scikit-learn · Logistic Regression · Decision Trees · Random Forest
                   Clustering · Time Series · Predictive Modeling · A/B Testing
-Database:         SQL · SQLite · MySQL · Excel (Advanced)
+Database:         SQL · SQLite · MySQL · Excel (Advanced) · DAX
 AI/LLM:           LangChain · OpenAI API (coming soon)
 Process:          Lean Six Sigma Black Belt · DMAIC · SIPOC · RCA · FMEA
 Domain:           Healthcare Analytics · Supply Chain · Recruitment Analytics
@@ -108,6 +136,8 @@ Domain:           Healthcare Analytics · Supply Chain · Recruitment Analytics
 - 🏆 **Lean Six Sigma Black Belt** — Benchmark Six Sigma (2021)
 - 🏆 **Lean Six Sigma Green Belt** — Benchmark Six Sigma (2021)
 - 📊 **MS Data Analytics** — Webster University, St Louis (Dec 2024) | GPA 3.31
+- 🔄 **Google Data Analytics** — Coursera (in progress)
+- 🔄 **Microsoft PL-300 Power BI** — Microsoft Learn (in progress)
 
 ---
 
@@ -133,12 +163,12 @@ Open to **Healthcare Analyst · Supply Chain Analyst · Data Analyst · Business
 
 ## Let's Connect
 
- krntrivedi@gmail.com
- [LinkedIn](https://www.linkedin.com/in/karan-r-trivedi-b9a96a56)
- [Healthcare Dashboard](https://karan-healthcare-analytics.streamlit.app)
- [Supply Chain Dashboard](https://karan-supply-chain.streamlit.app)
- [GitHub](https://github.com/Karant15)
+📧 krntrivedi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/karan-r-trivedi-b9a96a56)
+🏥 [Healthcare Dashboard](https://karan-healthcare-analytics.streamlit.app)
+🚚 [Supply Chain Dashboard](https://karan-supply-chain.streamlit.app)
+🐙 [GitHub](https://github.com/Karant15)
 
 ---
 
-*5 projects in progress. New deployments every 2 weeks. Check back soon.*
+*10 projects in progress. One release every Monday. Check back weekly.*
