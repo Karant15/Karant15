@@ -109,10 +109,10 @@ I build data-driven solutions that solve real business problems, not just notebo
 
 | Course | Platform | Section | Target Complete |
 |--------|----------|---------|-----------------|
-| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section | 
-| Google Data Analytics Professional Certificate | Coursera | 
-| Microsoft PL-300 Power BI Associate | Microsoft Learn | 
-| Unilever Supply Chain Analytics | Coursera |
+| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section | May 9 |
+| Google Data Analytics Professional Certificate | Coursera | Starting week 4 | May 19 |
+| Microsoft PL-300 Power BI Associate | Microsoft Learn | After Power BI section | Jun 2 |
+| Unilever Supply Chain Analytics | Coursera | Week 7 | Jun 9 |
 
 ---
 
@@ -162,13 +162,3 @@ Open to **Healthcare Analyst · Supply Chain Analyst · Data Analyst · Business
 ---
 
 ## Let's Connect
-
-📧 krntrivedi@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/karan-r-trivedi-b9a96a56)
-🏥 [Healthcare Dashboard](https://karan-healthcare-analytics.streamlit.app)
-🚚 [Supply Chain Dashboard](https://karan-supply-chain.streamlit.app)
-🐙 [GitHub](https://github.com/Karant15)
-
----
-
-*10 projects in progress. One release every Monday. Check back weekly.*
