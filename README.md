@@ -20,7 +20,7 @@ I build data-driven solutions that solve real business problems - not just noteb
 **Track 1 - Analytics Roles:** Data Analyst · Business Analyst · Healthcare Analyst · BI Analyst
 **Track 2 - Healthcare Recruitment:** Account Manager · Client Success Manager · Workforce Analytics Manager
 
-*7+ years managing NHS hospital accounts + MS Data Analytics + LSS Black Belt = rare combination for both tracks*
+*7+ years managing NHS hospital accounts + MS Data Analytics + LSS Black Belt*
 
 ---
 
