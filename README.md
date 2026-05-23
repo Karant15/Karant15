@@ -1,7 +1,7 @@
 # Hi, I'm Karan Trivedi
 
 **MS Data Analytics | Webster University (Dec 2024)**
-St Louis, MO | Open to US opportunities (Remote & Relocate) | STEM OPT Active
+Piscataway, NJ | Open to US opportunities (Remote & Relocate) | STEM OPT Active
 
 ---
 
@@ -15,7 +15,16 @@ I build data-driven solutions that solve real business problems - not just noteb
 
 ---
 
-## Release Schedule - 10 Projects | May-July 2026
+## Open To
+
+**Track 1 - Analytics Roles:** Data Analyst · Business Analyst · Healthcare Analyst · BI Analyst
+**Track 2 - Healthcare Recruitment:** Account Manager · Client Success Manager · Workforce Analytics Manager
+
+*7+ years managing NHS hospital accounts + MS Data Analytics + LSS Black Belt = rare combination for both tracks*
+
+---
+
+## Release Schedule - 12 Projects | May-September 2026
 
 One new project published every other week. Building in public.
 
@@ -25,12 +34,14 @@ One new project published every other week. Building in public.
 | 2 | Supply Chain KPI Dashboard + DMAIC + SQL | Python · SQL · Streamlit | Live | [Open](https://karan-supply-chain.streamlit.app) |
 | 3 | Healthcare Readmission ML Pipeline | XGBoost · SHAP · Streamlit | Live | [Open](https://karan-healthcare-ml.streamlit.app) |
 | 4 | Supply Chain Power BI Dashboard | Power BI · DAX | Building | Releasing May 2026 |
-| 5 | SQL Business Dashboard | SQL · Power BI · Tableau | Udemy project | Releasing May 2026 |
-| 6 | SQL Healthcare Claims Analysis | SQL · SQLite · Python | Planned | Releasing May 2026 |
-| 7 | HR Analytics Dashboard | SQL · Power BI · Excel | Udemy project | Releasing June 2026 |
-| 8 | Demand Forecasting + Inventory Optimizer | Python · Prophet · Streamlit | Planned | Releasing June 2026 |
-| 9 | LLM Business Intelligence Tool | LangChain · OpenAI · Streamlit | Planned | Releasing June 2026 |
-| 10 | Cricket Analytics Dashboard | Python · Plotly · Streamlit | Planned | Releasing July 2026 |
+| 5 | SQL Business Analytics Dashboard | SQL · SQLite · Python · Streamlit | Building | Releasing May 2026 |
+| 6 | HR Attrition ML Pipeline + SHAP | XGBoost · SHAP · SQL · Streamlit | Planned | Releasing June 2026 |
+| 7 | Demand Forecasting ML | Prophet · ARIMA · XGBoost · SQL | Planned | Releasing June 2026 |
+| 8 | LLM Chat With Data Tool | LangChain · OpenAI · SQL · Streamlit | Planned | Releasing June 2026 |
+| 9 | Finance Fraud Detection ML | XGBoost · SHAP · SQL · Streamlit | Planned | Releasing July 2026 |
+| 10 | Resume Analyzer AI Tool | LangChain · Hugging Face · SQL | Planned | Releasing July 2026 |
+| 11 | Healthcare RAG Document Q&A | LangChain · ChromaDB · RAG | Planned | Releasing August 2026 |
+| 12 | Cricket Analytics Dashboard | Python · Plotly · SQL · Streamlit | Planned | Releasing August 2026 |
 
 ---
 
@@ -54,8 +65,8 @@ One new project published every other week. Building in public.
 
 - Trained and compared 4 models: Logistic Regression, Random Forest, Gradient Boosting, XGBoost
 - XGBoost selected with ROC-AUC 0.598 - best balance for imbalanced medical data
-- SMOTE oversampling to handle 11.2% minority class - training set balanced to 144,628 samples
-- SHAP explainability - shows doctors exactly why the model flags a patient as high risk
+- SMOTE oversampling to handle 11.2% minority class imbalance
+- SHAP explainability showing clinicians exactly why a patient is flagged high risk
 - Live patient risk predictor with gauge chart and clinical recommendations
 - **Live:** https://karan-healthcare-ml.streamlit.app
 - **Stack:** Python · XGBoost · SHAP · SMOTE · Streamlit · UCI Diabetes Dataset
@@ -66,10 +77,9 @@ One new project published every other week. Building in public.
 > Analyzed 180,519 real orders - found that 57% of deliveries are late across 23 global regions
 
 - Only 42.7% on-time delivery rate - Central Africa worst at 60.7% late rate
-- 15 SQL queries via SQLite - late rate by region, revenue by category, customer segments
+- 15 SQL queries via SQLite covering late rates, revenue, customer segments
 - ABC inventory segmentation identifying Class A products driving 80% of revenue
 - Full DMAIC Six Sigma structured analysis - Define through Control
-- Full analysis on 180,519 orders locally - dashboard runs on 50k representative sample
 - **Live:** https://karan-supply-chain.streamlit.app
 - **Stack:** Python · SQL · SQLite · Plotly · Streamlit · DMAIC
 
@@ -79,9 +89,20 @@ One new project published every other week. Building in public.
 > Same 180,519 order dataset rebuilt in Power BI - demonstrating Microsoft stack proficiency
 
 - 4-page interactive report: Executive Summary, Delivery Performance, Revenue, ABC Inventory
-- DAX measures for KPI calculations - On-Time Rate, Late Orders, Total Revenue, Avg Margin
+- DAX measures for KPI calculations
 - Designed for business stakeholders - not just technical audiences
 - **Stack:** Power BI · DAX · DataCo Supply Chain Dataset
+
+---
+
+### SQL Business Analytics Dashboard - BUILDING
+> Standalone SQL showcase - 25 advanced queries across healthcare and supply chain datasets
+
+- Basic through advanced SQL: window functions, CTEs, subqueries, running totals
+- Cross-domain analysis: CMS Medicare + DataCo supply chain in same SQLite database
+- RANK DENSE_RANK ROW_NUMBER LAG LEAD across real business datasets
+- Streamlit dashboard showing queries alongside results
+- **Stack:** SQL · SQLite · Python · Plotly · Streamlit
 
 ---
 
@@ -122,7 +143,7 @@ One new project published every other week. Building in public.
 
 | Course | Platform | Section | Target |
 |--------|----------|---------|--------|
-| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section | May 2026 |
+| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section - feeds Project 5 directly | May 2026 |
 | Google Data Analytics Professional Certificate | Coursera | Week 4 | May 2026 |
 | Microsoft PL-300 Power BI Associate | Microsoft Learn | After Power BI section | June 2026 |
 | Unilever Supply Chain Analytics | Coursera | Week 7 | June 2026 |
@@ -132,15 +153,15 @@ One new project published every other week. Building in public.
 ## Tech Stack
 
 ```
-Languages:        Python · R · SQL
+Languages:        Python · R · SQL (basic through advanced window functions CTEs)
 Visualization:    Plotly · Streamlit · Power BI · Tableau · Seaborn
 ML/Analytics:     Scikit-learn · XGBoost · SHAP · Logistic Regression · Decision Trees
                   Random Forest · Clustering · Time Series · Predictive Modeling
 Imbalance:        SMOTE (imbalanced-learn)
-Database:         SQL · SQLite · MySQL · Excel (Advanced) · DAX
-AI/LLM:           LangChain · OpenAI API (coming soon)
+Database:         SQL · SQLite · PostgreSQL · MySQL · Excel (Advanced) · DAX
+AI/LLM:           LangChain · OpenAI API · Hugging Face · ChromaDB RAG (coming soon)
 Process:          Lean Six Sigma Black Belt · DMAIC · SIPOC · RCA · FMEA
-Domain:           Healthcare Analytics · Supply Chain · Recruitment Analytics
+Domain:           Healthcare · Supply Chain · HR Analytics · Finance · Recruitment
 ```
 
 ---
@@ -149,7 +170,7 @@ Domain:           Healthcare Analytics · Supply Chain · Recruitment Analytics
 
 - Lean Six Sigma Black Belt - Benchmark Six Sigma (2021)
 - Lean Six Sigma Green Belt - Benchmark Six Sigma (2021)
-- MS Data Analytics - Webster University, St Louis (Dec 2024) | GPA 3.31
+- MS Data Analytics - Webster University (Dec 2024) | GPA 3.31
 - Google Data Analytics - Coursera (in progress)
 - Microsoft PL-300 Power BI - Microsoft Learn (in progress)
 
@@ -168,13 +189,6 @@ CRLA Level 2 Certified · Improved student outcomes 94%
 
 ---
 
-## Target Roles
-
-Open to **Healthcare Analyst · Supply Chain Analyst · Data Analyst · Business Analyst** roles
-St Louis, MO · Remote · Open to relocate within US
-
----
-
 ## Let's Connect
 
 krntrivedi@gmail.com
@@ -186,4 +200,4 @@ krntrivedi@gmail.com
 
 ---
 
-*10 projects in progress. One new deployment every 2 weeks. Check back soon.*
+*12 projects in progress. One new deployment every 2 weeks. Check back soon.*
