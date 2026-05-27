@@ -17,24 +17,24 @@ I build data-driven solutions that solve real business problems - not just noteb
 
 ## Open To
 
-**Track 1 - Analytics Roles:** Data Analyst · Business Analyst · Healthcare Analyst · BI Analyst
+**Track 1 - Analytics:** Data Analyst · Business Analyst · Healthcare Analyst · BI Analyst
 **Track 2 - Healthcare Recruitment:** Account Manager · Client Success Manager · Workforce Analytics Manager
 
-*7+ years managing NHS hospital accounts + MS Data Analytics + LSS Black Belt*
+*7+ years managing NHS hospital accounts + MS Data Analytics + LSS Black Belt = rare combination for both tracks*
 
 ---
 
-## Release Schedule - 12 Projects | May-September 2026
+## 12 Projects | May-September 2026
 
-One new project published every other week. Building in public.
+Building in public. One new deployment every 2 weeks.
 
 | # | Project | Type | Status | Live |
 |---|---------|------|--------|------|
 | 1 | Healthcare Workforce Analytics Dashboard | Python · Streamlit | Live | [Open](https://karan-healthcare-analytics.streamlit.app) |
 | 2 | Supply Chain KPI Dashboard + DMAIC + SQL | Python · SQL · Streamlit | Live | [Open](https://karan-supply-chain.streamlit.app) |
 | 3 | Healthcare Readmission ML Pipeline | XGBoost · SHAP · Streamlit | Live | [Open](https://karan-healthcare-ml.streamlit.app) |
-| 4 | Supply Chain Power BI Dashboard | Power BI · DAX | Building | Releasing May 2026 |
-| 5 | SQL Business Analytics Dashboard | SQL · SQLite · Python · Streamlit | Building | Releasing May 2026 |
+| 4 | SQL Business Analytics Dashboard | SQL · SQLite · Python · Streamlit | Live | [Open](#) |
+| 5 | Supply Chain Power BI Dashboard | Power BI · DAX | Building | Releasing May 2026 |
 | 6 | HR Attrition ML Pipeline + SHAP | XGBoost · SHAP · SQL · Streamlit | Planned | Releasing June 2026 |
 | 7 | Demand Forecasting ML | Prophet · ARIMA · XGBoost · SQL | Planned | Releasing June 2026 |
 | 8 | LLM Chat With Data Tool | LangChain · OpenAI · SQL · Streamlit | Planned | Releasing June 2026 |
@@ -60,6 +60,18 @@ One new project published every other week. Building in public.
 
 ---
 
+### SQL Business Analytics Dashboard - LIVE
+> 25 advanced SQL queries across healthcare and supply chain real datasets - window functions, CTEs, subqueries
+
+- 6 basic, 9 intermediate, 9 advanced SQL queries across two real datasets
+- Window functions: RANK DENSE_RANK ROW_NUMBER NTILE LAG LEAD running totals moving averages
+- CTEs for ABC inventory classification and cross-domain state comparison
+- Live SQL Query Explorer - write and run any SQL against real database in browser
+- Cross-domain analysis combining CMS Medicare + DataCo supply chain in one SQLite DB
+- **Stack:** SQL · SQLite · Python · Plotly · Streamlit
+
+---
+
 ### Healthcare Readmission ML Pipeline - LIVE
 > End-to-end ML pipeline predicting 30-day hospital readmission risk - 101,745 real patient records
 
@@ -67,7 +79,6 @@ One new project published every other week. Building in public.
 - XGBoost selected with ROC-AUC 0.598 - best balance for imbalanced medical data
 - SMOTE oversampling to handle 11.2% minority class imbalance
 - SHAP explainability showing clinicians exactly why a patient is flagged high risk
-- Live patient risk predictor with gauge chart and clinical recommendations
 - **Live:** https://karan-healthcare-ml.streamlit.app
 - **Stack:** Python · XGBoost · SHAP · SMOTE · Streamlit · UCI Diabetes Dataset
 
@@ -85,33 +96,11 @@ One new project published every other week. Building in public.
 
 ---
 
-### Supply Chain Power BI Dashboard - BUILDING
-> Same 180,519 order dataset rebuilt in Power BI - demonstrating Microsoft stack proficiency
-
-- 4-page interactive report: Executive Summary, Delivery Performance, Revenue, ABC Inventory
-- DAX measures for KPI calculations
-- Designed for business stakeholders - not just technical audiences
-- **Stack:** Power BI · DAX · DataCo Supply Chain Dataset
-
----
-
-### SQL Business Analytics Dashboard - BUILDING
-> Standalone SQL showcase - 25 advanced queries across healthcare and supply chain datasets
-
-- Basic through advanced SQL: window functions, CTEs, subqueries, running totals
-- Cross-domain analysis: CMS Medicare + DataCo supply chain in same SQLite database
-- RANK DENSE_RANK ROW_NUMBER LAG LEAD across real business datasets
-- Streamlit dashboard showing queries alongside results
-- **Stack:** SQL · SQLite · Python · Plotly · Streamlit
-
----
-
 ### Human Capital Analysis
 > Predicting employee turnover to reduce hiring costs
 
 - Analyzed 15,000+ employee records using Logistic Regression and Decision Trees
 - Achieved 90% prediction accuracy - job satisfaction identified as top turnover driver
-- Recommended strategies projected to reduce turnover by 20%
 - **Stack:** R · Logistic Regression · Decision Trees · k-NN · SVM
 - **Repo:** [Human-Capital-Analysis](https://github.com/Karant15/Human-Capital-Analysis)
 
@@ -122,7 +111,6 @@ One new project published every other week. Building in public.
 
 - Built Logistic Regression and Decision Tree models on 5,960 loan applicants
 - Improved sensitivity to 80.65%, reducing false negatives
-- Demonstrated $3M cost reduction through optimized approval strategy
 - **Stack:** R · Logistic Regression · Decision Trees
 - **Repo:** [Bank-Loan-Decision-Making-Analysis](https://github.com/Karant15/Bank-Loan-Decision-Making-Analysis)
 
@@ -132,7 +120,6 @@ One new project published every other week. Building in public.
 > Customer segmentation and brand loyalty prediction
 
 - Segmented 600 consumer profiles using K-Means clustering
-- Applied Random Forest and Logistic Regression for brand loyalty prediction
 - Built for AXANTEUS market research agency
 - **Stack:** R · K-Means · Random Forest · Logistic Regression
 - **Repo:** [Consumer-Segmentation-Analysis](https://github.com/Karant15/Consumer-Segmentation-Analysis)
@@ -141,19 +128,19 @@ One new project published every other week. Building in public.
 
 ## Currently Learning
 
-| Course | Platform | Section | Target |
-|--------|----------|---------|--------|
-| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL section - feeds Project 5 directly | May 2026 |
-| Google Data Analytics Professional Certificate | Coursera | Week 4 | May 2026 |
-| Microsoft PL-300 Power BI Associate | Microsoft Learn | After Power BI section | June 2026 |
-| Unilever Supply Chain Analytics | Coursera | Week 7 | June 2026 |
+| Course | Platform | Status |
+|--------|----------|--------|
+| Data Analysis: SQL · Power BI · Tableau · Excel | Udemy | SQL complete - Power BI in progress |
+| Google Data Analytics Professional Certificate | Coursera | In progress |
+| Microsoft PL-300 Power BI Associate | Microsoft Learn | In progress |
+| Unilever Supply Chain Analytics | Coursera | In progress |
 
 ---
 
 ## Tech Stack
 
 ```
-Languages:        Python · R · SQL (basic through advanced window functions CTEs)
+Languages:        Python · R · SQL (basic through advanced window functions and CTEs)
 Visualization:    Plotly · Streamlit · Power BI · Tableau · Seaborn
 ML/Analytics:     Scikit-learn · XGBoost · SHAP · Logistic Regression · Decision Trees
                   Random Forest · Clustering · Time Series · Predictive Modeling
