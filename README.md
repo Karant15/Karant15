@@ -33,7 +33,7 @@ Building in public. One new deployment every 2 weeks.
 | 1 | Healthcare Workforce Analytics Dashboard | Python · Streamlit | Live | [Open](https://karan-healthcare-analytics.streamlit.app) |
 | 2 | Supply Chain KPI Dashboard + DMAIC + SQL | Python · SQL · Streamlit | Live | [Open](https://karan-supply-chain.streamlit.app) |
 | 3 | Healthcare Readmission ML Pipeline | XGBoost · SHAP · Streamlit | Live | [Open](https://karan-healthcare-ml.streamlit.app) |
-| 4 | SQL Business Analytics Dashboard | SQL · SQLite · Python · Streamlit | Live | [Open](#) |
+| 4 | SQL Business Analytics Dashboard | SQL · SQLite · Python · Streamlit | Live | [Open](https://karan-sql-analytics.streamlit.app/) |
 | 5 | Supply Chain Power BI Dashboard | Power BI · DAX | Building | Releasing May 2026 |
 | 6 | HR Attrition ML Pipeline + SHAP | XGBoost · SHAP · SQL · Streamlit | Planned | Releasing June 2026 |
 | 7 | Demand Forecasting ML | Prophet · ARIMA · XGBoost · SQL | Planned | Releasing June 2026 |
@@ -68,6 +68,7 @@ Building in public. One new deployment every 2 weeks.
 - CTEs for ABC inventory classification and cross-domain state comparison
 - Live SQL Query Explorer - write and run any SQL against real database in browser
 - Cross-domain analysis combining CMS Medicare + DataCo supply chain in one SQLite DB
+- **Live:** https://karan-sql-analytics.streamlit.app/
 - **Stack:** SQL · SQLite · Python · Plotly · Streamlit
 
 ---
