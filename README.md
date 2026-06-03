@@ -33,7 +33,7 @@ Available immediately. STEM OPT active. No sponsorship required for OPT period.
 | 2 | Supply Chain KPI + DMAIC + SQL | Found 57% late delivery rate in 180k orders. 15 SQL queries. DMAIC framework. | Python · SQL · SQLite · Streamlit | [Open](https://karan-supply-chain.streamlit.app) |
 | 3 | Healthcare Readmission ML | Predicts 30-day hospital readmission. XGBoost + SHAP. 101k real patient records. | XGBoost · SHAP · SMOTE · Streamlit | [Open](https://karan-healthcare-ml.streamlit.app) |
 | 4 | SQL Business Analytics | 25 SQL queries - basic to advanced window functions. Live query explorer in browser. | SQL · SQLite · Python · Streamlit | [Open](https://karan-sql-analytics.streamlit.app) |
-| 5 | Supply Chain Power BI | Same 180k order dataset rebuilt in Power BI for Microsoft stack demonstration | Power BI · DAX | May 2026 |
+| 5 | Supply Chain Power BI | Same 180k order dataset rebuilt in Power BI for Microsoft stack demonstration | Power BI · DAX | June 2026 |
 | 6 | HR Attrition ML + SHAP | Predicts which employees will leave and why. IBM HR data + SHAP explainability. | XGBoost · SHAP · SQL | June 2026 |
 | 7 | Demand Forecasting ML | ARIMA vs Prophet vs XGBoost on real sales data. EOQ reorder calculator. | Prophet · ARIMA · XGBoost | June 2026 |
 | 8 | LLM Chat With Data | Ask any business question in plain English. LLM generates SQL and returns answer. | LangChain · OpenAI · SQL | June 2026 |
