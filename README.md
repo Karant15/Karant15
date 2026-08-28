@@ -3,13 +3,13 @@
 Data Analyst | SQL · Python · Relational Databases & Data Warehousing
 MS Data Analytics | Webster University (Dec 2024) | Piscataway, NJ
 
-I build end-to-end analytics projects — from SQL extraction through dashboards and ML models — using public/open datasets across healthcare, supply chain, HR, and finance. All work here is version-controlled with documented, reproducible code.
+I build end-to-end analytics projects - from SQL extraction through dashboards and ML models - using public/open datasets across healthcare, supply chain, HR, and finance. All work here is version-controlled with documented, reproducible code.
 
 ---
 
 ## Current Role
 
-**Data Analyst — Phoenix Tech Solutions Inc.** (Dec 2025 – Present, Remote)
+**Data Analyst - Phoenix Tech Solutions Inc.** (Dec 2025 – Present, Remote)
 
 Assigned to build a portfolio of sector-specific analytics solutions using public and open-source datasets, to support new business proposals across healthcare, supply chain, human capital, and financial services. The projects below were built as part of this work.
 
